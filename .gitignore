@@ -1,0 +1,10 @@
+.vscode
+.env
+.env*
+paper-disbursement
+./paper-disbursement
+bin
+vendor
+data/ssl_certificate.crt
+*.out
+docs/swagger.*
